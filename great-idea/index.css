@@ -1,0 +1,6 @@
+.menubar {
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
