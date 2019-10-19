@@ -428,3 +428,58 @@ button {
     margin-bottom: 2rem;
     width: 100%;
 }
+
+#navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+#navbar .logo {
+    margin-bottom: 2rem;
+}
+
+.top-content img {
+    width: 90%;
+    margin-left: 5rem;
+}
+
+.top-content .services {
+    width: 90%;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    border-bottom: 1px solid black;
+    padding-bottom: 3rem;
+}
+
+.main-content {
+    width: 100%;
+    display: flex;
+    margin-top: 3rem;
+}
+
+.child {
+    border: 1px solid black;
+    width: 25%;
+    margin-right: 2rem;
+    margin-left: 5rem;
+    background-color: lightgray;
+}
+
+.child1 {
+    border: 1px solid black;
+    width: 25%;
+    background-color: lightgray;
+}
+
+.bottom-content {
+    display: flex;
+    border: 2px solid blue;
+    margin-right: 5rem;
+}
+
+.bottom-content .listimg #list {
+    border: 2px solid green;
+
+}
